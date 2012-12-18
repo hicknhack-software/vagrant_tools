@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Script take from http://vstone.eu/reducing-vagrant-box-size/
 # Copyright Jan Vansteenkiste Jan@vStone.eu
 # Modified by Michael Starke michael.starke@hicknhack-software.com
