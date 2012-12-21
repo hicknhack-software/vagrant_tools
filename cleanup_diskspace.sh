@@ -1,7 +1,8 @@
 #!/bin/bash
-# Script take from http://vstone.eu/reducing-vagrant-box-size/
-# Copyright Jan Vansteenkiste Jan@vStone.eu
-# Modified by Michael Starke michael.starke@hicknhack-software.com
+#
+# script taken from http://vstone.eu/reducing-vagrant-box-size/
+# copyright Jan Vansteenkiste Jan@vStone.eu
+# modified by Michael Starke michael.starke@hicknhack-software.com
 #
 
 cat - << EOWARNING

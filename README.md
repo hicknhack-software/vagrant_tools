@@ -1,7 +1,7 @@
 # Vagrant Tools
 
-This is a loose collection of tools for vagrant. Mostly a collection of things collected around the web.
+This repository is a collection of useful tools and scripts for vagrant, mostly gathered around the net.
 
 ## Sources
 
-- `cleanup_diskspace.sh` Copyright Jan Vansteenkiste Jan@vStone.eu
+- `cleanup_diskspace.sh` Copyright [Jan Vansteenkiste](https://github.com/vStone) <Jan@vStone.eu>
